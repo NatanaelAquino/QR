@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/28384fa9-251d-461d-80d8-41be76d84b6c)Nome do Projeto: Gerador de QR Code
+![image](https://github.com/user-attachments/assets/92f0c207-737c-4f7e-bc0f-b7d2dee49b1b)
+
+Nome do Projeto: Gerador de QR Code
 
 Descrição:
 Este projeto é uma aplicação web simples que permite a geração de QR Codes a partir de URLs ou textos fornecidos pelo usuário. Ao inserir uma URL ou texto e clicar em um botão, um QR Code correspondente é gerado e exibido na tela. A interface do usuário é minimalista e fácil de usar, e o projeto utiliza HTML, CSS e JavaScript puro.
